@@ -1,5 +1,6 @@
 import pandas as pd
 # Rikoksien tasonumerointi ei ole käytössä, koska ei ainakaan vielä toimi hyvin.
+# Jos excelissä on yhdistelty sarakkeiden otsikkosoluja niin yhdistämiset pitää poistaa.
 
 sheets= [
     
